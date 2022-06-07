@@ -1,0 +1,47 @@
+alert component in bootstrap
+primary color blue
+succes color green
+danger color red
+warning color yellow
+
+dismissing is also a alert component in bootstrap it is differnet from alert because isme cross option bhi ave
+outline ek trah ka special button jispe aap jab hover karogey to vo apna colour change karlega
+
+shift+alt+f -> is for format document
+
+
+alt dabao aur jaha aap chaogey vaha ek aur cursor ajaga inshort alt dabao aur multiple cursor pajao
+
+
+class="btn btn-primary btn-sm"
+class mai jab space di ja iska mtlb ek dusri class start ho gayi
+jaise yaha 3 classes hai i.e btn,btn-primary,btn-sm(ye three classes hai)
+
+id ka mtlb identifier yani isko pahchanne vala,
+let aapke pas apki identity kya ho sake aapka id card,aur ye unique hove taki aapko pahchana jaya ja skae
+<button type="button" class="btn btn-outline-primary">Primary</button>
+yaha 3-3 classes hai aur unki jo sari property hai vo apply ho jagi is button 
+to aap ek element ko kitni bhi classes de sako
+ clas ka mtlb kis kis kai member ho sakte haic
+ class -whtsapp grp
+ id-whatsapp dp
+ class multiple ho sake ,id unique
+ ab jis jis grp kai aap member un un grp kai msg aapke paas ayegey,
+ kis class mai kya hora ye lik hmne bootstrap mai
+
+
+ block level button ye pure level ko ghair le ve
+ button group isme button ki grping ho sake
+
+ source unplash .com ek api 
+ container puri width lele
+
+
+ vertically chezo ko center karne kai liye aap flexbox bna sako
+ d-flex justify-content-center align
+
+
+ order-md-2
+ mtlb medium devices mai ye dusre number pai dekhe 
+ order-md-1
+ mtlb medium devices mai ye pahle number pai dekhe
